@@ -64,7 +64,7 @@ cargo build
 
 ## Usage
 
-After building the project, you can run the game with the following command:
+After building the project, you can run the project with the following command:
 
 ```bash
 cargo run "target file" "output file" "encode/decode"
