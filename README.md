@@ -34,7 +34,7 @@ This project is licensed under the GPL-3.0-or-later - see the LICENSE.md file fo
 
 Inspiration, code snippets, etc.
 
-* [The Rust Book](https://rust-book.cs.brown.edu/ch03-05-control-flow.html#summary)
+* [Storing Files on Spotify by crad](https://www.youtube.com/watch?v=szLk6hLaj6E)
 
 # Development
 
