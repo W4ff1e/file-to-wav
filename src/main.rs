@@ -4,10 +4,11 @@ use std::io::prelude::*;
 use std::io::BufReader;
 use std::io::Error;
 use std::path::Path;
+
 fn main() {
     let args: Vec<String> = env::args().collect();
     let target_file = &args[1];
-    let mut output_file = &args[2];
+    let output_file = &args[2];
     let operation = &args[3];
 
     if operation == "encode" {
